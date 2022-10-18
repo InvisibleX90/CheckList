@@ -22,4 +22,4 @@ tomli==2.0.1
 trove-classifiers==2022.9.26
 typing_extensions==4.3.0
 validate-pyproject==0.10.1
-gunicorn-20.1.0
+gunicorn
