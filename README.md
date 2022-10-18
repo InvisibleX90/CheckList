@@ -1,3 +1,4 @@
 # ToDoList
 
-Just a simple ToDo List using django
+Just a simple ToDo List using django with user login 
+
